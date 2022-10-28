@@ -137,14 +137,13 @@
 }
 
 #prev-button{
-    display: inline-block;
+    width: 10vw;
     text-decoration: none;
     color: white;
     background-color: #d40000;
     text-align: center;
     padding: 10px;
-    margin-left: 94vh;
-    margin-right: 96vh;
+    align-self: center;
 }
 
 /*Preview of Agents*/
@@ -219,14 +218,14 @@
 }
 
 #map-button{
-    display: inline-block;
+    display: flex;
     text-decoration: none;
     color: #d40000;
     background-color: white;
     text-align: center;
     padding: 10px;
     margin-top: 20px;
-    margin-left: 188vh;
+   margin-left: 80vw;
 }
 
 /*Footer*/
