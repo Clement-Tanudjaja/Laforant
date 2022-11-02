@@ -12,17 +12,17 @@ html, body {
 
 #breeze-map {
     margin-top: 50px;
-    background-image: url(../Assets/breeze.png);
+    background-image: url(../assets/breeze.png);
     background-size: cover;
 }
 
 #icebox-map {
-    background-image: url(../Assets/icebox.png);
+    background-image: url(../assets/icebox.png);
     background-size: cover;
 }
 
 #ascent-map {
-    background-image: url(../Assets/ascent.png);
+    background-image: url(../assets/ascent.png);
     background-size: cover;
 }
 
