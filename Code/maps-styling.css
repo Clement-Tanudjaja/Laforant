@@ -3,7 +3,8 @@
     src: url('../fonts/valorant.ttf');
 }
 
-html, body {
+* {
+    font-family: "valorant";
     margin: 0;
     padding: 0;
 }
